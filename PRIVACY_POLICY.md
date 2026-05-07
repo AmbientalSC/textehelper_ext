@@ -100,4 +100,4 @@ Declaramos que:
 
 ## Contato
 
-Em caso de dúvidas sobre esta Política de Privacidade ou sobre o tratamento de dados pela extensão, entre em contato com o responsável pela publicação da extensão no Chrome Web Store.
+Em caso de dúvidas sobre esta Política de Privacidade ou sobre o tratamento de dados pela extensão, entre em contato pelo e-mail: informatica@ambiental.sc.
